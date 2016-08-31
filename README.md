@@ -11,4 +11,5 @@ Eclipse library project based on:<br/>
 - https://developer.android.com/topic/libraries/support-library/features.html#annotations
 
 **SVN checkout:**
-- https://github.com/dandar3/android-support-annotations/tags/24.1.1
+- _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
+  https://github.com/dandar3/android-support-annotations/tags/24.1.1
