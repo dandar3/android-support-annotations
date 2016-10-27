@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar`
 
 **Requires:**
-- `Android 7.0 (API 24) SDK Platform`
+- `Android 7.1 (API 25) SDK Platform`
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
