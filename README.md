@@ -7,7 +7,7 @@ Eclipse library project based on:<br/>
 - `Android 7.1 (API 25) SDK Platform`
 
 **References:**
-- https://developer.android.com/topic/libraries/support-library/revisions.html#25-4-0
+- https://developer.android.com/topic/libraries/support-library/revisions.html#26-0-0
 - https://developer.android.com/topic/libraries/support-library/features.html#annotations
 
 **SVN checkout:**
