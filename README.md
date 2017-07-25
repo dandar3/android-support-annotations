@@ -1,7 +1,7 @@
 ## android-support-annotations
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/support-annotations/25.4.0/support-annotations-25.4.0.jar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/support-annotations/26.0.0/support-annotations-26.0.0.jar`
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
@@ -12,4 +12,4 @@ Eclipse library project based on:<br/>
 
 **SVN checkout:**
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
-  https://github.com/dandar3/android-support-annotations/tags/25.4.0
+  https://github.com/dandar3/android-support-annotations/tags/26.0.0
