@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 https://maven.google.com/com/android/support/support-annotations/26.0.0/support-annotations-26.0.0.jar
 
 **Requires:**
-- `Android 7.1 (API 25) SDK Platform`
+- `Android 8.0 (API 26) SDK Platform`
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#26-0-0
