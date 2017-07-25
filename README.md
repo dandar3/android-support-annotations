@@ -1,7 +1,7 @@
 ## android-support-annotations
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/support-annotations/26.0.0/support-annotations-26.0.0.jar`
+`https;//maven.google.com/com/android/support/support-annotations/26.0.0/support-annotations-26.0.0.jar`
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
