@@ -7,7 +7,7 @@ https://maven.google.com/com/android/support/support-annotations/27.1.0/support-
 - `Android 8.1 (API 27) SDK Platform`
 
 **References:**
-- https://developer.android.com/topic/libraries/support-library/revisions.html#27-1-0
+- https://developer.android.com/topic/libraries/support-library/revisions.html#27-1-1
 - https://developer.android.com/topic/libraries/support-library/packages.html#annotations
 
 **SVN checkout:**
