@@ -1,7 +1,7 @@
 ## android-support-annotations
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/android/support/support-annotations/27.1.0/support-annotations-27.1.0.jar
+https://maven.google.com/com/android/support/support-annotations/27.1.1/support-annotations-27.1.1.jar
 
 **Requires:**
 - `Android 8.1 (API 27) SDK Platform`
@@ -12,4 +12,4 @@ https://maven.google.com/com/android/support/support-annotations/27.1.0/support-
 
 **SVN checkout:**
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/>
-  https://github.com/dandar3/android-support-annotations/tags/27.1.0
+  https://github.com/dandar3/android-support-annotations/tags/27.1.1
